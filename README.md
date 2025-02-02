@@ -1,6 +1,8 @@
 # AI Business & Tech Consultant - Streamlit App
 
 This is a Streamlit-based web application designed to provide AI-powered insights on various topics including market trends, business strategies, AI applications, data analysis, and coding best practices. The app uses the Ollama LLM (Language Learning Model) and LangChain library to process user queries and provide tailored responses.
+<img width="1274" alt="Ekran Resmi 2025-02-03 00 46 32" src="https://github.com/user-attachments/assets/fe6513be-a24d-483e-89b2-1d452528188e" />
+<img width="1275" alt="Ekran Resmi 2025-02-03 00 46 10" src="https://github.com/user-attachments/assets/51e64fd4-e55a-48d5-94db-c8dedaf39cfd" />
 
 ## Features:
 - **AI-powered business & tech consultation**: Users can ask about the latest trends in AI, market analysis, product development, business strategies, and more.
@@ -10,7 +12,9 @@ This is a Streamlit-based web application designed to provide AI-powered insight
 
 ## Setup Instructions:
 
+
 ### Prerequisites:
+
 - Python 3.7 or higher
 - Streamlit
 - LangChain
