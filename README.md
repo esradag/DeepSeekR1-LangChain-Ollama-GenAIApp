@@ -79,3 +79,4 @@ Once the app is running, open it in your browser to interact with the AI Busines
 ## Development:
 This app uses the **LangChain** library to structure and process prompts for the chosen model, and it utilizes **Streamlit** to build the web interface. The application is extensible, allowing for future improvements like model fine-tuning and adding new features.
 
+---
